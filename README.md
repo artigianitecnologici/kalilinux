@@ -1,1 +1,4 @@
-# kalilinux
+# KALI LINUX
+
+
+## script installation
